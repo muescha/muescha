@@ -7,6 +7,6 @@ Java developer from Cologne, self-described "FullSnack Developer".
 
 - Currently: AI-assisted development with Claude Code and OpenAI Codex
 - When I run into bugs, I report them and propose fixes as pull
-  requests, e.g. in LSP4IJ (IntelliJ) and Hammerspoon2
+  requests
 - For my Mac: Hammerspoon scripts in
   [dot_hammerspoon](https://github.com/muescha/dot_hammerspoon)
