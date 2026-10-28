@@ -1,6 +1,6 @@
 # Hallo, ich bin Michael 👋
 
-[English version](README.md)
+[English version](https://github.com/muescha/muescha/blob/main/README.md)
 
 Java-Entwickler aus Köln, selbstironisch „FullSnack Developer“.
 Seit über 25 Jahren baue und pflege ich Java- und Webanwendungen.
