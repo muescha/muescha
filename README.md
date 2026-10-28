@@ -1,7 +1,5 @@
 # Hi, I'm Michael 👋
 
-[Deutsche Version](https://github.com/muescha/muescha/blob/main/README.de.md)
-
 Java developer from Cologne, self-described "FullSnack Developer".
 25+ years of building and maintaining Java and web applications.
 
